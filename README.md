@@ -7,3 +7,4 @@
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/simon-vellin)
+- [Medium](https://medium.com/@simon.vellin)
