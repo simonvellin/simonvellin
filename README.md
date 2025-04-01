@@ -5,7 +5,7 @@
 - **Tools:** Python, R, SQL, Stata, PowerBI
 
 ## Relevant Projects
-- [**GEOSPATIAL - California Road Construction Safety Analysis**](https://github.com/m9o8/bse_geospatial/tree/main/final):
+- [**California Road Construction Safety Analysis**](https://github.com/m9o8/bse_geospatial/tree/main/final): How does road construction causally impact traffic accident rates?
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/simon-vellin)
