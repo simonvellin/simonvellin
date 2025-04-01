@@ -1,7 +1,7 @@
 # Simon Vellin
 
 ## Skills
-- **Fields of Interest:** Econometrics, Financial Forecasting, Economic Theory, Political Economy, Blockchain Architecture, Macroeconomic Analysis
+- **Fields of Interest:** Econometrics, Machine & Reinforcement Learning, Financial Forecasting, Economic Theory, Blockchain Architecture (consensus logic), Macroeconomic Analysis
 - **Tools:** Python, R, SQL, Stata, PowerBI
 
 ## Contact
