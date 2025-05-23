@@ -1,7 +1,7 @@
 # Simon Vellin
 
 ## Profile
-- **Skills:** Machine Learning, Financial Forecasting, Natural Language Processing, Option Pricing, Deep Learning
+- **Skills:** Machine Learning, Financial Forecasting, Natural Language Processing, Option Pricing, Semantic Segmantation
 - **Interest:** Econometrics, Reinforcement Learning, Economic Theory, Blockchain Architecture (consensus logic)
 - **Tools:** Python, RStudio, SQL, Stata, PowerBI
 
