@@ -5,7 +5,8 @@
 - **Interest:** Econometrics, Reinforcement Learning, Economic Theory, Blockchain Architecture (consensus logic)
 - **Tools:** Python, RStudio, SQL, Stata, PowerBI
 
-## Relevant Projects
+## Projects
+- [**Exploring Feature Encoding Impact on Temporal Difference Learning**](https://github.com/simonvellin/reinforcement_learning) How does different feature encoding strategies affect the learning of value functions when using Approximate Policy Iteration (API)?
 - [**California Road Construction Safety Analysis**](https://github.com/m9o8/bse_geospatial/tree/main/final): How does road construction causally impact traffic accident rates?
 - [**Python Library Design**](https://github.com/DenisProcyon/CDS_Final_Project): Built scalable and functional library for a predictive analytics task using naive models.
 - [**Airline Database Modeling**](https://github.com/simonvellin/Airline-Database-Modeling): Designed and implemented a backend database system for a fictional airline aiming to modernise its flight bookings, customer management, and operational processes.
