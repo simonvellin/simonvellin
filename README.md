@@ -1,9 +1,9 @@
 # Simon Vellin
 
 ## Profile
-- **Skills:** Machine Learning, Financial Forecasting, Natural Language Processing, Option Pricing, Semantic Segmantation
-- **Interest:** Econometrics, Reinforcement Learning, Economic Theory, Blockchain Architecture (consensus logic)
-- **Tools:** Python, RStudio, SQL, Stata, PowerBI
+- **Skills:** Machine Learning, Time Series Analysis, Natural Language Processing, Option Pricing, Semantic Segmantation
+- **Interest:** Financial Econometrics, Reinforcement Learning, Monetary Theory, Blockchain Architecture (consensus logic)
+- **Tools:** Python, R, SQL, Stata, PowerBI, Neo4j, MongoDB, Docker
 
 ## Projects
 - [**Exploring Feature Encoding Impact on Temporal Difference Learning**](https://github.com/simonvellin/reinforcement_learning) How does different feature encoding strategies affect the learning of value functions when using Approximate Policy Iteration (API)?
