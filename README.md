@@ -1,7 +1,7 @@
 # Simon Vellin
 
 ## Profile
-- **Skills:** Machine Learning, Time Series Analysis, Natural Language Processing, Option Pricing, Semantic Segmantation
+- **Skills:** Machine Learning, Time Series Forecasting, Option Pricing, Semantic Segmantation
 - **Interest:** Financial Econometrics, Reinforcement Learning, Monetary Theory, Blockchain Architecture (consensus logic)
 - **Tools:** Python, R, SQL, Stata, PowerBI, Neo4j, MongoDB, Docker
 
